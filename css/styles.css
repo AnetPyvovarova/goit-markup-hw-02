@@ -132,6 +132,10 @@ body {
   background-color: #ffffff;
 }
 
+.gallery-list {
+  background-color: #f4f4fd;
+}
+
 .gallery-caption {
   color: #2e2f42;
   text-align: center;
