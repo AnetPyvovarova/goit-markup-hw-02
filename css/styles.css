@@ -79,11 +79,11 @@ body {
   text-decoration: none;
 }
 
-.contact-list:hover {
+.contact-list-link:hover {
   color: #404bbf;
 }
 
-.contact-list:focus {
+.contact-list-link:focus {
   color: #404bbf;
 }
 
@@ -110,6 +110,7 @@ body {
 }
 
 .benefits-caption {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -126,6 +127,10 @@ body {
 
 .gallery {
   background-color: #f4f4fd;
+}
+
+.gallery-list {
+  background-color: #ffffff;
 }
 
 .gallery-caption {
@@ -215,7 +220,6 @@ body {
 
 .footer-text {
   color: #f4f4fd;
-  /* Body */
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
