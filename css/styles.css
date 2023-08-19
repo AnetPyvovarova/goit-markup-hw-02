@@ -125,11 +125,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.gallery {
-  background-color: #f4f4fd;
-}
-
-.gallery-list {
+.gallery-item {
   background-color: #ffffff;
 }
 
