@@ -124,8 +124,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.galary {
+  background-color: #f4f4fd;
+}
 
-.gallery-img {
+.gallery-item {
   background-color: #ffffff;
 }
 
